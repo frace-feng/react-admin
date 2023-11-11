@@ -1,0 +1,19 @@
+.login-page{
+  /* background-color: darkslateblue; */
+  height: 100%;
+}
+
+.form-login-container{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: auto;
+  padding: 80px 0 30px;
+}
+
+.form-login-top{
+  text-align: center;
+}
+.form-login-main{
+  margin: 0 auto;
+}
